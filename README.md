@@ -1,4 +1,4 @@
-# Molecular-HIV-Detection
+# Predicting-HIV-Inhibition
 AI Applications in Molecular Engineering: Predicting HIV Inhibition from Molecular Diagrams Using Schnet and Keras
 
 **What did we complete?**
